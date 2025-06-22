@@ -1,9 +1,5 @@
-# from Algorithms.print_1_to_n import *
-from Algorithms.factorial import *
+from Algorithms.factorial import factorial
 
-    
 if __name__ == "__main__":
-    # print_1_to_n(5)
-    print(factorial(2))
-    
-
+    result, graph = factorial(6)
+    print("Factorial result:", result)
