@@ -20,16 +20,6 @@ A Python project to **visualize recursion** in classic **Data Structures & Algor
   (e.g. `factorial(4)` ➝ 4 → 3 → 2 → 1)
 
 
-
-## 📂 Project Structure
-
-DSA-Visualizer/
-├── Algorithms/
-│ └── factorial.py # Recursive factorial logic + visualization
-├── main.py # Entry point to run and generate visual
-├── README.md # You are here
-└── .venv/ # (Virtual environment — add to .gitignore)
-
 ## ▶️ How to Run
 
 1. **Clone the repo**  
